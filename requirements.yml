@@ -1,0 +1,7 @@
+---
+- src: https://github.com/redhat-cop/openshift-applier
+  version: master
+
+- src: https://github.com/mdwgunx/openshift-gitops-lab.git
+  name: self
+  version: master
